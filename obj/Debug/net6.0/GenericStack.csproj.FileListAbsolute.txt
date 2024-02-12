@@ -1,0 +1,14 @@
+C:\Users\mohamedshamil\source\repos\GenericStack\bin\Debug\net6.0\GenericStack.exe
+C:\Users\mohamedshamil\source\repos\GenericStack\bin\Debug\net6.0\GenericStack.deps.json
+C:\Users\mohamedshamil\source\repos\GenericStack\bin\Debug\net6.0\GenericStack.runtimeconfig.json
+C:\Users\mohamedshamil\source\repos\GenericStack\bin\Debug\net6.0\GenericStack.dll
+C:\Users\mohamedshamil\source\repos\GenericStack\bin\Debug\net6.0\GenericStack.pdb
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.AssemblyInfoInputs.cache
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.AssemblyInfo.cs
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.csproj.CoreCompileInputs.cache
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.dll
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\refint\GenericStack.dll
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.pdb
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\GenericStack.genruntimeconfig.cache
+C:\Users\mohamedshamil\source\repos\GenericStack\obj\Debug\net6.0\ref\GenericStack.dll
